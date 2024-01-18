@@ -10,3 +10,8 @@ In practice, it would start to get tedious if every page on Wikipedia had to be 
 Read through GitHub’s Markdown guide to get an understanding for how Markdown’s syntax works. Pay attention in particular to what Markdown syntax looks like for headings, bold text, links, and lists.
 
 By having one Markdown file represent each encyclopedia entry, we can make our entries more human-friendly to write and edit. When a user views our encyclopedia entry, though, we’ll need to convert that Markdown into HTML before displaying it to the user.
+
+Pages are designed with html, css, .md files
+The link to the explanation on YouTube is: 
+https://www.youtube.com/watch?v=pY0gRmKKgFw
+
